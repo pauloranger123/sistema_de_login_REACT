@@ -1,3 +1,28 @@
+# 🧩 Sistema de Login (React)
+
+Este projeto é um **sistema de login desenvolvido em React**, criado como base para futuras aplicações web.
+
+## 📋 Descrição
+Atualmente, o projeto conta com:
+- Campos de entrada (inputs) configurados;
+- Interface visual responsiva e moderna;
+- Estrutura inicial pronta para receber novas funcionalidades.
+
+## 🚀 Próximos Passos
+- Implementar validação de usuários;
+- Adicionar integração com banco de dados;
+- Criar autenticação segura e persistência de sessão.
+
+## 🛠️ Tecnologias Utilizadas
+- React
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+💡 *Projeto em desenvolvimento – criado com o objetivo de aprimorar conhecimentos em React e autenticação web.*
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
